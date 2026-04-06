@@ -1,7 +1,6 @@
 # Data_Analytics_Internship
-Data Analytics Project with EDA ,Visualization, and insights
 
-# 📊 Data Analytics Internship Projects
+# 📊 Data Analytics Internship Projects with EDA, Visualization, ans insights 
 
 This repository contains my work completed during a Data Analytics Internship. The projects focus on analyzing real-world datasets to extract meaningful insights and support business decision-making.
 
