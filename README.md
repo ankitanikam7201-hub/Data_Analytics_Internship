@@ -57,6 +57,4 @@ Each task includes:
 - Clear visualizations  
 - Key findings  
 
----
 
-⭐ If you like this project, feel free to star the repository!   
